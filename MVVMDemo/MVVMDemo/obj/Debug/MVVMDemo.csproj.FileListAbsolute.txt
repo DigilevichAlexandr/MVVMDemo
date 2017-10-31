@@ -1,0 +1,15 @@
+E:\myAndroid\MVVMDemo\MVVMDemo\bin\Debug\MVVMDemo.exe
+E:\myAndroid\MVVMDemo\MVVMDemo\bin\Debug\MVVMDemo.pdb
+E:\myAndroid\MVVMDemo\MVVMDemo\obj\Debug\MVVMDemo.csprojResolveAssemblyReference.cache
+E:\myAndroid\MVVMDemo\MVVMDemo\obj\Debug\MainWindow.g.cs
+E:\myAndroid\MVVMDemo\MVVMDemo\obj\Debug\App.g.cs
+E:\myAndroid\MVVMDemo\MVVMDemo\obj\Debug\MVVMDemo_MarkupCompile.cache
+E:\myAndroid\MVVMDemo\MVVMDemo\obj\Debug\MVVMDemo_MarkupCompile.lref
+E:\myAndroid\MVVMDemo\MVVMDemo\obj\Debug\MainWindow.baml
+E:\myAndroid\MVVMDemo\MVVMDemo\obj\Debug\MVVMDemo.g.resources
+E:\myAndroid\MVVMDemo\MVVMDemo\obj\Debug\MVVMDemo.Properties.Resources.resources
+E:\myAndroid\MVVMDemo\MVVMDemo\obj\Debug\MVVMDemo.csproj.GenerateResource.Cache
+E:\myAndroid\MVVMDemo\MVVMDemo\obj\Debug\MVVMDemo.exe
+E:\myAndroid\MVVMDemo\MVVMDemo\obj\Debug\MVVMDemo.pdb
+E:\ITransition\MVVMDemo\MVVMDemo\obj\Debug\MVVMDemo.exe
+E:\ITransition\MVVMDemo\MVVMDemo\obj\Debug\MVVMDemo.pdb
